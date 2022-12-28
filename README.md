@@ -7,3 +7,6 @@ The project involved:
 1) Using Convex Optimisation techniques to explore the dataset by reducing the features and samples independently 
 2) Repeat Step 1 but both are done at once 
 3) Develop an On-line regressor variant using Steepest Gradient Descent. 
+
+
+This project was one of the ten projects shortlisted from a group of 128 projects to be presented to the class.  
